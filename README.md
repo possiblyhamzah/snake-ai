@@ -1,5 +1,13 @@
 # Snake AI
 
+## Demonstration
+![Alt text](media/demonstration.mp3?raw=true "demonstration")
+    
+## Performance
+![Alt text](media/graph.png?raw=true "graph")
+    
+Trained for 100 iterations, tested for the next 100 iterations
+   
 ## How to use
 
 1. Download and install the snake environment from https://github.com/grantsrb/Gym-Snake
