@@ -7,6 +7,8 @@
 3. Install the required dependencies
 ```bash
 pip3 install requirements.txt
+```
 4. Run the program
 ```bash
-python3 snake.py  
+python3 snake.py
+```
