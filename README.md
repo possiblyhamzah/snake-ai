@@ -14,7 +14,7 @@ Trained for 100 iterations, tested for the next 100 iterations
 2. Clone this repository and navigate to the directory
 3. Install the required dependencies
 ```bash
-pip3 install requirements.txt
+pip3 install -r requirements.txt
 ```
 4. Run the program
 ```bash
